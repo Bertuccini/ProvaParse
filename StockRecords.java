@@ -1,7 +1,7 @@
 package provaparse;
 
 public class StockRecords {
-	
+	i vionser
 	private String indirizzo;
 	private int attiva, zona;
 	private double lon,lat,loc;
